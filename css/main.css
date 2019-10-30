@@ -1,0 +1,15 @@
+html{
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+body{
+
+}
+
+.wrapper{
+  max-width: 1440px;
+  margin: 0 auto;
+}
